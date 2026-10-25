@@ -39,15 +39,15 @@ The analysis selects environmental indicators and housing burden, removes rows w
 
 ### Correlation Heatmap
 
-<img src="images/correlation_heatmap.png" alt="Correlation heatmap of environmental indicators and housing burden" width="500">
+<img src="correlation_heatmap.png" alt="Correlation heatmap of environmental indicators and housing burden" width="500">
 
 ### Environmental Indicators vs. Housing Burden
 
-<img src="images/pairplot.png" alt="Pair plots comparing environmental indicators with housing burden" width="650">
+<img src="pairplot.png" alt="Pair plots comparing environmental indicators with housing burden" width="650">
 
 ### Random Forest Feature Importance
 
-<img src="images/feature_importance.png" alt="Random Forest feature importance for housing-burden prediction" width="500">
+<img src="feature_importance.png" alt="Random Forest feature importance for housing-burden prediction" width="500">
 
 ## Results
 
