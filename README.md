@@ -43,7 +43,7 @@ The analysis selects environmental indicators and housing burden, removes rows w
 
 ### Environmental Indicators vs. Housing Burden
 
-<img src="images/pairplot.png" alt="Pair plots comparing environmental indicators with housing burden" width="500">
+<img src="images/pairplot.png" alt="Pair plots comparing environmental indicators with housing burden" width="650">
 
 ### Random Forest Feature Importance
 
